@@ -1,5 +1,6 @@
 from my_application import greet
 
+
 def main():
     greet()
 
